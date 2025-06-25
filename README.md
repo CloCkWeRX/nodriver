@@ -9,7 +9,7 @@ NODRIVER
 
 ### for docs click [here](https://ultrafunkamsterdam.github.io/nodriver)
 
-Direct communication provides even better resistance against web applicatinon firewalls (WAF’s), while
+Direct communication provides even better resistance against web application firewalls (WAF’s), while
 performance gets a massive boost.
 This module is, contrary to undetected-chromedriver, fully asynchronous.
 
